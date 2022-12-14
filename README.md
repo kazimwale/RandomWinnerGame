@@ -11,11 +11,11 @@ yarn hardhat
 ```
 and choose create javascripts project 
 
-#the graph 
+# the graph 
 you can check this link[https://learnweb3.io/courses/6394ea7c-0ad6-4a4a-879f-7f9756bc5976/lessons/3f3d8330-d820-46e9-b049-397b8143ccb9](https://learnweb3.io/courses/6394ea7c-0ad6-4a4a-879f-7f9756bc5976/lessons/3f3d8330-d820-46e9-b049-397b8143ccb9) to understand how to create a graph like in the repo
 
 
-#FrontEnd
+# FrontEnd
 you can run this code to create next.js app :
 ```
 npx create-next-app@latest 
